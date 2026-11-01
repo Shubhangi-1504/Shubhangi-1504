@@ -40,7 +40,7 @@
 <br/>
 
 - 🔭 &nbsp;Currently working on **web apps with React & Next.js**
-- 🌱 &nbsp;Exploring **Backend Development** (Node.js, Express, Databases) & sharpening my **DSA** skills
+- 🌱 &nbsp;Exploring **Backend Development** (Node.js, Express, PostgreSQL) & sharpening my **DSA** skills
 - 💬 &nbsp;Ask me about **JavaScript, TypeScript, React, or anything frontend!**
 - ⚡ &nbsp;Deployed projects live on **Vercel** — I love seeing my code come alive!
 - 🤝 &nbsp;Open to **collaborations** and **open-source contributions**
@@ -97,9 +97,9 @@
       <br><sub>Web Framework</sub>
     </td>
     <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br><strong>Databases</strong>
-      <br><sub>MongoDB & SQL</sub>
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br><strong>PostgreSQL</strong>
+      <br><sub>SQL Database</sub>
     </td>
     <td align="center" width="150">
       <img src="https://img.shields.io/badge/DSA-FF69B4?style=flat-square&logo=leetcode&logoColor=white" width="48" height="48" alt="DSA" />
