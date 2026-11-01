@@ -132,29 +132,23 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Shubhangi-1504&show_icons=true&theme=radical&bg_color=1a1b27&title_color=FF69B4&icon_color=FF85C8&text_color=c9d1d9&border_color=FF69B4&border_radius=12&hide_border=false&count_private=true" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shubhangi-1504&show_icons=true&theme=radical&bg_color=1a1b27&title_color=FF69B4&icon_color=FF85C8&text_color=c9d1d9&border_color=FF69B4&border_radius=12&hide_border=false&count_private=true" alt="GitHub Stats" />
-</picture>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Shubhangi-1504&show_icons=true&theme=radical&bg_color=1a1b27&title_color=FF69B4&icon_color=FF85C8&text_color=c9d1d9&border_color=FF69B4&border_radius=12&hide_border=false&count_private=true" alt="GitHub Stats" />
 &nbsp;
 <img width="49%" src="https://streak-stats.demolab.com/?user=Shubhangi-1504&theme=radical&background=1a1b27&ring=FF69B4&fire=FF85C8&currStreakLabel=FF69B4&sideLabels=FF69B4&currStreakNum=FFC0CB&sideNums=FFC0CB&dates=c9d1d9&stroke=FF69B4&border=FF69B4&border_radius=12" alt="GitHub Streak" />
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shubhangi-1504&layout=compact&theme=radical&bg_color=1a1b27&title_color=FF69B4&text_color=c9d1d9&border_color=FF69B4&border_radius=12&langs_count=8" />
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shubhangi-1504&layout=compact&theme=radical&bg_color=1a1b27&title_color=FF69B4&text_color=c9d1d9&border_color=FF69B4&border_radius=12&langs_count=8" alt="Top Languages" />
-</picture>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Shubhangi-1504&layout=compact&theme=radical&bg_color=1a1b27&title_color=FF69B4&text_color=c9d1d9&border_color=FF69B4&border_radius=12&langs_count=8" alt="Top Languages" />
 
 </div>
 
 ---
 
-<!-- ✨ ACTIVITY GRAPH ✨ -->
-## 📈 Contribution Graph
+<!-- ✨ CONTRIBUTION ACTIVITY ✨ -->
+## 📈 Contribution Activity
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhangi-1504&bg_color=1a1b27&color=FF69B4&line=FF85C8&point=FFC0CB&area_color=FF69B4&area=true&hide_border=false&custom_title=Shubhangi%27s+Contribution+Graph&title_color=FF69B4" alt="Activity Graph" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubhangi-1504&theme=dracula" alt="Contribution Activity" />
 </div>
 
 ---
